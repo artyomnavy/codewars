@@ -5,4 +5,3 @@ class SmallestIntegerFinder {
     return Math.min(...args);
   }
 }
-console.log()
