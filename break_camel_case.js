@@ -11,10 +11,6 @@ Example:
 function solution(string) {
   const result = [];
 
-  const isUpperCase = (s) => {
-    return s === s.toUpperCase();
-  };
-
   let start = 0;
 
   for (let i = 0; i < string.length; i++) {
